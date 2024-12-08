@@ -1,0 +1,1 @@
+# start the chat server at certain port specified by PORT in the source code and use netcat or similar tool to connect to the server.
